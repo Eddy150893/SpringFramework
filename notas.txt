@@ -1,0 +1,24 @@
+Introduccion a Spring
+Es utilizado por excelencia para el desarrollo de aplicacion en Java.
+Un Framework es un conjunto de clases que nos permiten resolver un problema en especifico.
+Spring es open source y creado por Rod Johnson.
+
+Caracteristicas
+Spring permite desarrollar aplicacion flexibles, con un bajo acoplamiento y altamente cohesivas.
+Spring promueve el uso de clases Java Simples(POJO's) para la configuracion de servicios y la programacion
+orientado a interfaces.
+
+Caracteristicas principales
+
+DI(Dependency Inyection): Este patron permite suministrar objetos a una clase que tiene dependencias, en lugar
+de ser ella misma sea quien los proporcione u obtenga.
+
+AOP(Aspect Oriented Programming): AOP es un paradigma de programacion que permite modularizar las aplicacion y 
+mejorar la separacion de responsabilidad entre modulos.
+
+MODULOS DE SPRING FRAMEWORK
+Spring Core
+Spring AOP
+Utilerias de Soporte, Contenedor IoC/Fabrica de Beans
+
+me quede en el video 4 min 3:59
